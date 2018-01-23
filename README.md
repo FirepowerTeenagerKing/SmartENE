@@ -14,8 +14,13 @@
 4. 安卓端应用
 
 ## 环境配置
-+ 百度语音识别环境 ```pip install baidu-aip```
-+ ......
++ 百度语音识别环境
+```
+pip install baidu-aip
+pip install pydub
+sudo apt-get install ffmpeg
+```
++  ......
 
 
 
