@@ -40,5 +40,5 @@
 + ......
 
 ## 参考文档
-+ 
++ [利用pydub库操作音频文件](http://blog.csdn.net/wr132/article/details/59133085)
 + ......
