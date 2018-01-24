@@ -46,4 +46,5 @@ sudo apt-get install ffmpeg
 
 ## 参考文档
 + [利用pydub库操作音频文件](http://blog.csdn.net/wr132/article/details/59133085)
++ [百度语音识别python-SDK文档](http://ai.baidu.com/docs#/ASR-Online-Python-SDK/top)
 + ......
