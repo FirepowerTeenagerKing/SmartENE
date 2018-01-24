@@ -37,7 +37,7 @@ sudo apt-get install ffmpeg
 
 
 ## 正在开发
-+ 
++ 语音识别模块[基于Python]
 + ......
 
 ## 已开发
