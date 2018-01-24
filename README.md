@@ -14,8 +14,13 @@
 4. 安卓端应用
 
 ## 环境配置
-+ 百度语音识别环境 ```pip install baidu-aip```
-+ ......
++ 百度语音识别环境
+```
+pip install baidu-aip
+pip install pydub
+sudo apt-get install ffmpeg
+```
++  ......
 
 
 
@@ -41,4 +46,5 @@
 
 ## 参考文档
 + [利用pydub库操作音频文件](http://blog.csdn.net/wr132/article/details/59133085)
++ [百度语音识别python-SDK文档](http://ai.baidu.com/docs#/ASR-Online-Python-SDK/top)
 + ......
